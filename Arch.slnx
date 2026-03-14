@@ -3,4 +3,5 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="Arch.ConsoleApp\Arch.ConsoleApp.csproj" Type="C#" />
+  <Project Path="Arch.EFCore/Arch.EFCore.csproj" />
 </Solution>
