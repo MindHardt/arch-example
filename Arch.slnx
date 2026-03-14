@@ -1,3 +1,6 @@
 ﻿<Solution>
-  <Project Path="Arch.ConsoleApp\Arch.ConsoleApp.csproj" Type="Classic C#" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Arch.ConsoleApp\Arch.ConsoleApp.csproj" Type="C#" />
 </Solution>
