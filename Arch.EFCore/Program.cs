@@ -1,4 +1,1 @@
-﻿using Arch.EFCore;
-using Microsoft.EntityFrameworkCore;
-
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, World!");
